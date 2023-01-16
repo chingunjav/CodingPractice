@@ -1,1 +1,2 @@
 # CodingPractice
+Interview preparation purpose
