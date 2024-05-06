@@ -8,7 +8,6 @@ public class FirstRepeatCharacter {
     public static void main(String[] args) {
         String str = "geeksforgeeks" ; //e
         String str2 = "hello greeks"; //l
-
         System.out.println(firstRepeat(str2));
 
     }
